@@ -22,3 +22,22 @@ Step five: now go to the connections tab (one with lighting bolt) and select Cop
 
 <img width="551" height="175" alt="step5" src="https://github.com/user-attachments/assets/9e3f870b-869a-481f-9d3d-5294ff34f10f" />
 
+Step six: Now click of the copper straight through wire and left click the pc and select fast ethernet 
+
+<img width="292" height="211" alt="step 6 pc" src="https://github.com/user-attachments/assets/19526878-79da-43bc-b301-84471580e659" />
+
+Step seven: Now drag the wire towards the family router and left click the family router and select ethernet port 1(If done right two green triangles should appear in a few seconds)
+
+<img width="596" height="297" alt="Pcroutersignial" src="https://github.com/user-attachments/assets/d3ae1105-0fc0-4771-932d-935cb4d936a7" />
+
+Step seven: Now back to the connections tab and tap the copper straight through wire and left click the laptop and select fast ethernet
+
+<img width="372" height="270" alt="Step 7 laptop" src="https://github.com/user-attachments/assets/fb4fdb40-713d-4281-8259-b50741698983" />
+
+Step eight: Now drag the wire towards the family router and left click the family router and select the next ethernet port 2 (If done right two green triangles should appear in a few seconds)
+
+<img width="557" height="306" alt="Step8laptopsignial" src="https://github.com/user-attachments/assets/f9a7c720-acec-4f9d-aaa4-c1bf92b4d26a" />
+
+You Finally set up your first small network !!!!!
+
+<img width="695" height="417" alt="image" src="https://github.com/user-attachments/assets/f705d4b8-dfe4-4c4f-9272-946d2176a0a5" />
